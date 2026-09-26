@@ -201,6 +201,7 @@ body {
   grid-area: formtitle;
   color: #c8102e80;              /* matching other section title style*/
   text-decoration: underline #c8102e 0.75px;
+  text-decoration-thickness: 3px;
   font-size: 56px;
   /* padding-bottom: 10px; */
   border-top: 0.5px solid #f5f0e8;
